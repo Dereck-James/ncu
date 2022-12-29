@@ -131,7 +131,7 @@ header .logo-container .logo img {
 @media (max-width:560px) {
     .logo-container .logo img {
         width: 40%;
-        border: solid;
+  
     }
 }
 
